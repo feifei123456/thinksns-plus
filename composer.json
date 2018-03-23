@@ -96,7 +96,6 @@
         "overtrue/easy-sms": "^1.0",
         "pingplusplus/pingpp-php": "^2.2",
         "predis/predis": "^1.1",
-        "slimkit/plus-appversion": "1.7.0",
         "slimkit/plus-around-amap": "1.7.0",
         "slimkit/plus-checkin": "1.7.0",
         "slimkit/plus-feed": "1.7.0",
